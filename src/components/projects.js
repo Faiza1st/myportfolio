@@ -12,7 +12,7 @@ import github from "../assests/github2.png"
 import bootcamp from "../assests/Bootcampmarks.png"
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
-import { Link } from "react-router-dom";
+
 
 export const Projects = () => {
 
