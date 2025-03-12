@@ -64,10 +64,10 @@ export const Projects = () => {
       const Bciiprojects = [
       
         {
-          title: "StudentConnect",
+          title: "Integrating Business and Creative Intelligence",
           link: "https://github.com/Faiza1st/StudentConnect",
           
-          description: "StudentConnect is a specialised social networking site created exclusively for college and university students. It enables students to establish connections, engage in interactions, and exchange their university experiences and everyday lives.",
+          description: "My dual degree in Business and Creative Intelligence and Innovation (BCII) empowers me to approach problems from both strategic and creative perspectives. By combining business models with creative, human-centered design methods, I offer solutions that are not only viable but innovative and future-ready.",
           imgUrl: pro1,
          },
           {
