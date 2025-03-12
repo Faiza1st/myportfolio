@@ -12,14 +12,16 @@ import github from "../assests/github2.png"
 import bootcamp from "../assests/Bootcampmarks.png"
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
-
+import { Link } from "react-router-dom";
 
 export const Projects = () => {
 
     const projects = [
+      
       {
         title: "StudentConnect",
         link: "https://github.com/Faiza1st/StudentConnect",
+        
         description: "StudentConnect is a specialised social networking site created exclusively for college and university students. It enables students to establish connections, engage in interactions, and exchange their university experiences and everyday lives.",
         imgUrl: pro1,
        },
@@ -59,8 +61,25 @@ export const Projects = () => {
             imgUrl: pro8,
           },
       ];
+      const Bciiprojects = [
+      
+        {
+          title: "StudentConnect",
+          link: "https://github.com/Faiza1st/StudentConnect",
+          
+          description: "StudentConnect is a specialised social networking site created exclusively for college and university students. It enables students to establish connections, engage in interactions, and exchange their university experiences and everyday lives.",
+          imgUrl: pro1,
+         },
+          {
+            title: "Work Day Scheduler",
+            description: "The Work Schedule Application is a user-friendly calendar utility that can assist users better plan their everyday work habits. ",
+            imgUrl: pro3,
+          },
+        ];
+      
     return (
     <section className="project" id="projects">
+       <section className="Bciiprojects" id="Bciiprojects"></section>
       <Container>
         <Row>
           <Col size={12}>
@@ -72,13 +91,16 @@ export const Projects = () => {
                 <Tab.Container id="projects-tabs" defaultActiveKey="first">
                   <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
                     <Nav.Item>
-                      <Nav.Link eventKey="first">Projects</Nav.Link>
+                      <Nav.Link eventKey="first"> Web DevelopmentProjects</Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
                       <Nav.Link eventKey="second">Githubs</Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
                       <Nav.Link eventKey="third"> Projects Marks</Nav.Link>
+                    </Nav.Item>
+                    <Nav.Item>
+                      <Nav.Link eventKey="forth"> Innovative Project</Nav.Link>
                     </Nav.Item>
                   </Nav>
                   <Tab.Content id="slideInUp" className={isVisible ? "animate__animated animate__slideInUp" : ""}>
@@ -96,12 +118,27 @@ export const Projects = () => {
                         }
                       </Row>
                     </Tab.Pane>
+                    <Tab.Pane eventKey="forth">
+                      <Row>
+                        {
+                          Bciiprojects.map((Bciiprojects, index) => {
+                            return (
+                              <ProjectCard
+                                key={index}
+                                {...Bciiprojects}
+                                />
+                            )
+                          })
+                        }
+                      </Row>
+                    </Tab.Pane>
                     <Tab.Pane eventKey="second">
                         <a href="https://github.com/Faiza1st"><img className= "project-img" src={github} alt="Github" /></a>
                     </Tab.Pane>
                     <Tab.Pane eventKey="third">
                       <img className= "marks-img" src={bootcamp} alt="BootcampMarks"/>
                     </Tab.Pane>
+        
                   </Tab.Content>
                 </Tab.Container>
               </div>}
