@@ -71,8 +71,19 @@ export const Projects = () => {
           imgUrl: pro1,
          },
           {
-            title: "Work Day Scheduler",
-            description: "The Work Schedule Application is a user-friendly calendar utility that can assist users better plan their everyday work habits. ",
+            title: "The Value of Integrating Diverse Knowledge",
+            description: "The integration of business strategy, creative intelligence, and technology is key to solving modern-day challenges. By blending insights from marketing, design thinking, and IT, I create solutions that are grounded in business objectives while remaining adaptable to the ever-evolving digital landscape. This approach not only solves immediate problems but also builds a foundation for sustainable growth in dynamic environments.",
+            imgUrl: pro3,
+          },
+           {
+            title: "Key Characteristics of My Transdisciplinary Approach",
+            description: "What sets my approach apart is more than just the integration of diverse disciplines—it's about collaboration, adaptability, and user-centered thinking. I thrive in environments that encourage teamwork across multiple domains, and I adapt methods to suit each unique challenge. By applying design thinking, Agile practices, and market analysis, I ensure that my solutions are practical, innovative, and aligned with both user needs and business goals.",
+            imgUrl: pro3,
+          },
+          
+           {
+           title: "Methods for Solving Real-World Problems",
+            description: "I've mastered various methods through my academic journey and coding bootcamp that allow me to solve real-world problems effectively. From applying design thinking for user-centered innovation to using Agile development for iterative project delivery, I have the tools to approach complex problems with structured, strategic solutions. Whether it’s crafting marketing strategies or developing digital products, I can select and apply the best methods for each situation."
             imgUrl: pro3,
           },
         ];
