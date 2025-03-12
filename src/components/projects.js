@@ -120,7 +120,7 @@ export const Projects = () => {
                       <Nav.Link eventKey="second">Githubs</Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
-                      <Nav.Link eventKey="forth"> Innovative Project</Nav.Link>
+                      <Nav.Link eventKey="third"> Innovative Project</Nav.Link>
                     </Nav.Item>
                   </Nav>
                   <Tab.Content id="slideInUp" className={isVisible ? "animate__animated animate__slideInUp" : ""}>
@@ -138,7 +138,11 @@ export const Projects = () => {
                         }
                       </Row>
                     </Tab.Pane>
-                    <Tab.Pane eventKey="forth">
+                  
+                    <Tab.Pane eventKey="second">
+                        <a href="https://github.com/Faiza1st"><img className= "project-img" src={github} alt="Github" /></a>
+                    </Tab.Pane>
+          <Tab.Pane eventKey="third">
                       <Row>
                         {
                           Bciiprojects.map((Bciiprojects, index) => {
@@ -152,10 +156,6 @@ export const Projects = () => {
                         }
                       </Row>
                     </Tab.Pane>
-                    <Tab.Pane eventKey="second">
-                        <a href="https://github.com/Faiza1st"><img className= "project-img" src={github} alt="Github" /></a>
-                    </Tab.Pane>
-        
                   </Tab.Content>
                 </Tab.Container>
               </div>}
