@@ -83,7 +83,12 @@ export const Projects = () => {
           
            {
            title: "Methods for Solving Real-World Problems",
-            description: "I've mastered various methods through my academic journey and coding bootcamp that allow me to solve real-world problems effectively. From applying design thinking for user-centered innovation to using Agile development for iterative project delivery, I have the tools to approach complex problems with structured, strategic solutions. Whether it’s crafting marketing strategies or developing digital products, I can select and apply the best methods for each situation.",
+            description: "I've mastered various methods through my academic journey and coding bootcamp that allow me to solve real-world problems effectively. From applying design thinking for user-centered innovation to using Agile development for iterative project delivery. Whether it’s crafting marketing strategies or developing digital products, I can select and apply the best methods for each situation.",
+            imgUrl: pro3,
+          },
+          {
+           title: "Adapting Methods for Different Contexts",
+            description: "The ability to select and adapt methods to fit various contexts is central to my problem-solving approach. Whether working on business strategy, digital product development, or creative innovation, I tailor my methods—such as market analysis, design thinking, or lean startup principles—to meet the specific needs of the project.",
             imgUrl: pro3,
           },
         ];
