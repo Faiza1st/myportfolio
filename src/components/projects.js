@@ -8,7 +8,8 @@ import pro5 from "../assests/pro5.png";
 import pro9 from "../assests/pro9.png";
 import pro8 from "../assests/pro8.png";
 import pro7 from "../assests/pro7.png";
-import picture from "../assests/pciture.png";
+import picture from "../assests/picture1.png";
+import picture2 from "../assests/picture2.png";
 import github from "../assests/github2.png"
 import bootcamp from "../assests/Bootcampmarks.png"
 import 'animate.css';
@@ -74,7 +75,7 @@ export const Projects = () => {
           {
             title: "Value of Integrating Diverse Knowledge",
             description: "The integration of business strategy, creative intelligence, and technology is key to solving modern-day challenges. By blending insights from marketing, design thinking, and IT, I create solutions that are grounded in business objectives while remaining adaptable to the ever-evolving digital landscape. ",
-            imgUrl: pro3,
+            imgUrl: picture2,
           },
            {
             title: "Key Characteristics of My Transdisciplinary Approach",
