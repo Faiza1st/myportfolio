@@ -10,6 +10,11 @@ import pro8 from "../assests/pro8.png";
 import pro7 from "../assests/pro7.png";
 import picture from "../assests/picture1.png";
 import picture2 from "../assests/picture2.png";
+import picture3 from "../assests/pic3.png";
+import picture4 from "../assests/picture4.png";
+import picture5 from "../assests/pic5.png";
+
+
 import github from "../assests/github2.png"
 import bootcamp from "../assests/Bootcampmarks.png"
 import 'animate.css';
@@ -80,18 +85,18 @@ export const Projects = () => {
            {
             title: "Key Characteristics of My Transdisciplinary Approach",
             description: "What sets my approach apart is more than just the integration of diverse disciplines—it's about collaboration, adaptability, and user-centered thinking. I thrive in environments that encourage teamwork across multiple domains, and I adapt methods to suit each unique challenge.  ",
-            imgUrl: pro3,
+            imgUrl: picture3,
           },
           
            {
            title: "Methods for Solving Real-World Problems",
             description: "I've mastered various methods through my BCII journey that allow me to solve real-world problems effectively. From applying design thinking for user-centered innovation to using Agile development for iterative project delivery.  ",
-            imgUrl: pro3,
+            imgUrl: picture4,
           },
           {
            title: "Adapting Methods for Different Contexts",
             description: "The ability to select and adapt methods to fit various contexts is central to my problem-solving approach. Whether working on business strategy, digital product development, or creative innovation, I tailor my methods to meet the specific needs of the project.",
-            imgUrl: pro3,
+            imgUrl: picture5,
           },
         ];
       
