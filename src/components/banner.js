@@ -82,7 +82,7 @@ export const Banner = () => {
 
 In addition to my studies, I completed a coding bootcamp at Monash University, where I sharpened my skills in HTML, CSS, JavaScript, and React. This hands-on experience allows me to build meaningful, user-centered digital solutions that drive business success.
 
-What sets me apart is my transdisciplinary approach—combining strategic thinking, creative problem-solving, and technical expertise to tackle complex challenges. I'm excited about the opportunity to collaborate on projects that demand fresh perspectives and real-world impact, creating sustainable and scalable solutions.{" "}
+ I'm excited about the opportunity to collaborate on projects that demand fresh perspectives and real-world impact, creating sustainable and scalable solutions.{" "}
                   </p>
                   {/* <button onClick={() => console.log("connect")}>
                     Let’s Connect <ArrowRightCircle size={25} />
