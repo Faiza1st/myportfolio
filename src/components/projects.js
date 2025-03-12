@@ -120,9 +120,6 @@ export const Projects = () => {
                       <Nav.Link eventKey="second">Githubs</Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
-                      <Nav.Link eventKey="third"> Projects Marks</Nav.Link>
-                    </Nav.Item>
-                    <Nav.Item>
                       <Nav.Link eventKey="forth"> Innovative Project</Nav.Link>
                     </Nav.Item>
                   </Nav>
@@ -157,9 +154,6 @@ export const Projects = () => {
                     </Tab.Pane>
                     <Tab.Pane eventKey="second">
                         <a href="https://github.com/Faiza1st"><img className= "project-img" src={github} alt="Github" /></a>
-                    </Tab.Pane>
-                    <Tab.Pane eventKey="third">
-                      <img className= "marks-img" src={bootcamp} alt="BootcampMarks"/>
                     </Tab.Pane>
         
                   </Tab.Content>
