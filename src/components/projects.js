@@ -8,6 +8,7 @@ import pro5 from "../assests/pro5.png";
 import pro9 from "../assests/pro9.png";
 import pro8 from "../assests/pro8.png";
 import pro7 from "../assests/pro7.png";
+import picture from "../assests/pciture.png";
 import github from "../assests/github2.png"
 import bootcamp from "../assests/Bootcampmarks.png"
 import 'animate.css';
@@ -68,7 +69,7 @@ export const Projects = () => {
           link: "https://github.com/Faiza1st/StudentConnect",
           
           description: "My dual degree in Business and Creative Intelligence and Innovation (BCII) empowers me to approach problems from both strategic and creative perspectives. By combining business models with creative, human-centered design methods, I offer solutions that are not only viable but innovative and future-ready.",
-          imgUrl: pro1,
+          imgUrl: picture,
          },
           {
             title: "Value of Integrating Diverse Knowledge",
