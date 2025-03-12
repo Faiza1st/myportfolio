@@ -71,24 +71,24 @@ export const Projects = () => {
           imgUrl: pro1,
          },
           {
-            title: "The Value of Integrating Diverse Knowledge",
-            description: "The integration of business strategy, creative intelligence, and technology is key to solving modern-day challenges. By blending insights from marketing, design thinking, and IT, I create solutions that are grounded in business objectives while remaining adaptable to the ever-evolving digital landscape. This approach not only solves immediate problems but also builds a foundation for sustainable growth in dynamic environments.",
+            title: "Value of Integrating Diverse Knowledge",
+            description: "The integration of business strategy, creative intelligence, and technology is key to solving modern-day challenges. By blending insights from marketing, design thinking, and IT, I create solutions that are grounded in business objectives while remaining adaptable to the ever-evolving digital landscape. ",
             imgUrl: pro3,
           },
            {
             title: "Key Characteristics of My Transdisciplinary Approach",
-            description: "What sets my approach apart is more than just the integration of diverse disciplines—it's about collaboration, adaptability, and user-centered thinking. I thrive in environments that encourage teamwork across multiple domains, and I adapt methods to suit each unique challenge. By applying design thinking, Agile practices, and market analysis, I ensure that my solutions are practical, innovative, and aligned with both user needs and business goals.",
+            description: "What sets my approach apart is more than just the integration of diverse disciplines—it's about collaboration, adaptability, and user-centered thinking. I thrive in environments that encourage teamwork across multiple domains, and I adapt methods to suit each unique challenge.  ",
             imgUrl: pro3,
           },
           
            {
            title: "Methods for Solving Real-World Problems",
-            description: "I've mastered various methods through my academic journey and coding bootcamp that allow me to solve real-world problems effectively. From applying design thinking for user-centered innovation to using Agile development for iterative project delivery. Whether it’s crafting marketing strategies or developing digital products, I can select and apply the best methods for each situation.",
+            description: "I've mastered various methods through my BCII journey that allow me to solve real-world problems effectively. From applying design thinking for user-centered innovation to using Agile development for iterative project delivery.  ",
             imgUrl: pro3,
           },
           {
            title: "Adapting Methods for Different Contexts",
-            description: "The ability to select and adapt methods to fit various contexts is central to my problem-solving approach. Whether working on business strategy, digital product development, or creative innovation, I tailor my methods—such as market analysis, design thinking, or lean startup principles—to meet the specific needs of the project.",
+            description: "The ability to select and adapt methods to fit various contexts is central to my problem-solving approach. Whether working on business strategy, digital product development, or creative innovation, I tailor my methods to meet the specific needs of the project.",
             imgUrl: pro3,
           },
         ];
