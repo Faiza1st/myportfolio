@@ -41,16 +41,15 @@ export const Skills = () => {
                 </div>
                 <div className="item">
                   <img src={meter3} alt="meter 3" />
-                  <p> Front End Development: HTML, CSS, React & JavaScript</p>
+                  <p> Transdisciplinary Innovator</p>
                 </div>
                 <div className="item">
                   <img src={meter2} alt="meter 2" />
-                  <p>Back End Development: JQuery, Node, MySQL, Express, NOSQL, Web APIS, Third party APIS, ORM, MVC, PWA, MERN</p>
+                  <p>Business Strategist</p>
                 </div>
                 <div className="item">
                   <img src={meter1} alt="meter 4" />
-                  <p>Graphic Design Software: Adobe Photoshop,
-                    Illustrator </p>
+                  <p>Marketing Specialist </p>
                 </div>
               </Carousel>
 
