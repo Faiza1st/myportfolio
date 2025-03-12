@@ -71,14 +71,11 @@ export const Banner = () => {
                     </span>
                   </h1>
                   <p>
-                    I am seeking a position as a Junior Front-End Developer
-                    where I can apply my passion for web development and design.
-                    After completing a comprehensive web development bootcamp at
-                    Monash University, I have gained experience in various
-                    languages and frameworks, including HTML, CSS, JavaScript,
-                    jQuery, Node.js, Express.js, and Python. I am eager to
-                    contribute my skills and knowledge to your company while
-                    continuing to grow professionally.
+                     A business strategist with a passion for web development. I blend strategic thinking with digital innovation to create meaningful, user-centered solutions. With expertise in business strategy and hands-on skills in HTML, CSS, JavaScript, and React, I focus on crafting digital experiences that truly make an impact.
+
+What sets me apart is my transdisciplinary approach—bringing together insights from business, technology, and design to solve complex challenges. I thrive in collaborative environments, where I can bridge the gap between strategy and execution to deliver sustainable, scalable solutions.
+
+I’m get excited to work on projects that demand fresh, cross-disciplinary thinking and a real commitment to creating tangible, lasting results.{" "}
                   </p>
                   <a href="tel:+61490050656" className="vvd">
                     <button>
