@@ -78,11 +78,11 @@ export const Banner = () => {
                     </span>
                   </h1>
                   <p>
-                  A business strategist with a passion for web development. I blend strategic thinking with digital innovation to create meaningful, user-centered solutions. With expertise in business strategy and hands-on skills in HTML, CSS, JavaScript, and React, I focus on crafting digital experiences that truly make an impact.
+                  I'm a fourth-year student pursuing a dual Bachelor's degree in Business and Creative Intelligence & Innovation, with a major in Marketing and a sub-major in IT. My journey has been fueled by a deep passion for blending business strategy with digital innovation. Throughout my academic path, I've honed a unique skill set that bridges the worlds of marketing, technology, and creativity.
 
-What sets me apart is my transdisciplinary approach—bringing together insights from business, technology, and design to solve complex challenges. I thrive in collaborative environments, where I can bridge the gap between strategy and execution to deliver sustainable, scalable solutions.
+In addition to my studies, I completed a coding bootcamp at Monash University, where I sharpened my skills in HTML, CSS, JavaScript, and React. This hands-on experience allows me to build meaningful, user-centered digital solutions that drive business success.
 
-I’m get excited to work on projects that demand fresh, cross-disciplinary thinking and a real commitment to creating tangible, lasting results.{" "}
+What sets me apart is my transdisciplinary approach—combining strategic thinking, creative problem-solving, and technical expertise to tackle complex challenges. I'm excited about the opportunity to collaborate on projects that demand fresh perspectives and real-world impact, creating sustainable and scalable solutions.{" "}
                   </p>
                   {/* <button onClick={() => console.log("connect")}>
                     Let’s Connect <ArrowRightCircle size={25} />
